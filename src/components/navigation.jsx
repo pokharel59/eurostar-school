@@ -42,7 +42,7 @@ export function Navigation() {
         <div className="flex justify-between items-center h-16 md:h-20">
           {/* Logo */}
           <a href="#home" className="flex items-center gap-2" onClick={(e) => scrollToSection(e, '#home')}>
-            <img className="h-12 md:h-16 w-auto" src="/src/assets/Eurostarlogon.png" alt="School Logo" />
+            <img className="h-12 md:h-16 w-auto" src="https://drive.google.com/file/d/1GYu_TxprmU3uXIuz0NCM0WbfPTGKuxZK/view?usp=drive_link" alt="School Logo" />
           </a>
 
           {/* Desktop Navigation */}
