@@ -8,7 +8,7 @@ export function Footer() {
           {/* About */}
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <img className="h-12 md:h-16 w-auto" src="https://drive.google.com/file/d/1GYu_TxprmU3uXIuz0NCM0WbfPTGKuxZK/view?usp=drive_link" alt="School Logo" />
+              <img className="h-12 md:h-16 w-auto" src="https://res.cloudinary.com/dfc5smckf/image/upload/v1772642394/Eurostarlogon_tfgvah.png" alt="School Logo" />
             </div>
             <p className="text-sm text-gray-400 mb-4">
               Shaping tomorrow's leaders today through excellence in education and holistic development.
